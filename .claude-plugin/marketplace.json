@@ -1,0 +1,16 @@
+{
+  "name": "prompteafacil",
+  "owner": {
+    "name": "prompteafacil"
+  },
+  "plugins": [
+    {
+      "name": "guardian-cache",
+      "source": "./",
+      "description": "Muestra cuánto le queda al caché, el contexto y los límites, con botón de traspaso de sesión."
+    }
+  ],
+  "metadata": {
+    "description": "Mods de Claude Code de la comunidad prompteafacil."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "guardian-cache",
+  "version": "0.1.0",
+  "description": "Muestra cuánto le queda al caché, el contexto y los límites, con botón de traspaso de sesión.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "prompteafacil"
+  }
+}
